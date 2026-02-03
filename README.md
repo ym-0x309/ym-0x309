@@ -1,4 +1,4 @@
-## Hi there 👋
+## 소개 추가 예정
 
 <!--
 **ym-0x309/ym-0x309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
