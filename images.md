@@ -1,5 +1,7 @@
 이미지 공개용(changelog 작성용)
 
+<img width="802" height="632" alt="image" src="https://github.com/user-attachments/assets/153d693c-0905-4a6a-afab-68f250086227" />
+
 <img width="1920" height="1032" alt="스크린샷 2026-02-12 130723" src="https://github.com/user-attachments/assets/c6dbb176-4a7d-4c83-a16e-054aae7e173e" />
 
 <img width="1292" height="733" alt="image" src="https://github.com/user-attachments/assets/f62a1bdd-bfb0-440d-8c73-3d239e5f4550" />
